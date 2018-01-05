@@ -1,0 +1,45 @@
+h1,
+.downloadlink,
+p,
+h2,
+.description,
+.copyright {
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+.background {
+  background-color: black;
+}
+
+.downloadlink {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+.description {
+  font-size: 21px;
+  color: grey;
+}
+
+.copyright {
+  text-align: right;
+  color: grey;
+}
